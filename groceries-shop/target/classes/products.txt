@@ -1,0 +1,5 @@
+apple 60
+banana 50
+tomato 40
+potato 30
+watermelon 20
